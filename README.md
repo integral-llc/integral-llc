@@ -2,7 +2,7 @@
 
 If you're looking at the contribution graph below and thinking it's a bit quiet - fair, but it's not the whole story.
 
-My personal projects live on my own self-hosted Git server, not on GitHub. Apps, tools, infrastructure, experiments, the stuff I tinker with on weekends - it all gets committed there, most days of the week. GitHub just doesn't see any of it.
+My personal projects live on my own self-hosted Git server, not on GitHub. Apps, tools, infrastructure, experiments - I work on them in the evenings after my day job and on weekends, and it all gets committed there. GitHub just doesn't see any of it.
 
 So the empty squares here don't mean I'm not writing code. It's the opposite, it just happens somewhere else.
 

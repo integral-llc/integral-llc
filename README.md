@@ -1,4 +1,4 @@
-## Hi, I'm Eugen
+## Hi, I'm Eugene
 
 If you're looking at the contribution graph below and thinking it's a bit quiet - fair, but it's not the whole story.
 
